@@ -5,13 +5,13 @@ Module Information;
     Assessment Type : Coursework
 
 Group Information;
-    Name : H M A P N L JAYAWICKRAMA
-    Student ID : COHNDNE252F-002
-    Batch : HNDNE 25.2F
+Name : H M A P N L JAYAWICKRAMA
+Student ID : COHNDNE252F-002
+Batch : HNDNE 25.2F
 
-  Name :  A D T SILVA
-  Student ID : COHNDNE252F-014
-  Batch : HNDNE25.2F
+Name :  A D T SILVA
+Student ID : COHNDNE252F-014
+Batch : HNDNE25.2F
 
 
 Introduction:
