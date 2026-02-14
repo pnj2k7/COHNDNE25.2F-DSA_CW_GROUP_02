@@ -15,19 +15,19 @@ Output;
 
 Step by step Algorithm;
  
-  Creating a weighted graph A
-  Representing each network device as Vertex
-  Representing each network link as Edge
-  Assign weights based on traffic load or delay
-  Store the GRAPH using Adjacency lis
-  Mark the Source node distance as 0
-  Mark all the other node distances as infinity
-  Select the non visited node with the minimum distance
-  Update the current distance to the neighboring nodes
-  Repeat the process until destination is reached
-  Select the path with the minimum final weight
-  Route the traffic through the choosen path
-  Update the edge weights automatically during traffic
+  1. Creating a weighted graph A
+  2. Representing each network device as Vertex
+  3. Representing each network link as Edge
+  4. Assign weights based on traffic load or delay
+  5. Store the GRAPH using Adjacency lis
+  6. Mark the Source node distance as 0
+  7. Mark all the other node distances as infinity
+  8. Select the non visited node with the minimum distance
+  9. Update the current distance to the neighboring nodes
+  10. Repeat the process until destination is reached
+  11. Select the path with the minimum final weight
+  12. Route the traffic through the choosen path
+  13. Update the edge weights automatically during traffic
 
 
 Complexity Analysis;
